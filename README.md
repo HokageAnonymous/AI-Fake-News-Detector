@@ -76,7 +76,7 @@ fake-news-detector/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/fake-news-detector.git
+git clone https://github.com/HokageAnonymous/AI-Fake-News-Detector
 cd fake-news-detector
 ```
 
@@ -96,11 +96,10 @@ streamlit run app.py
 
 ## 🌐 **Live Demo**
 
-> 🔗 Add your deployed Streamlit URL here once deployed
-> Example:
+> 🔗 deployed Streamlit URL here
 
 ```
-https://yourusername-fake-news-detector.streamlit.app
+https://ai-fake-news-detector-demo.streamlit.app
 ```
 
 ---
